@@ -10,11 +10,6 @@ Whether it's through collaborative projects or individual endeavors, my goal is 
 
 [![LinkedIn](https://img.shields.io/badge/-beratiyilik-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beratiyilik) [![X](https://img.shields.io/badge/-beratiyilik-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/beratiyilik) [![Instagram Badge](https://img.shields.io/badge/-beratiyilik-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/beratiyilik/)](https://www.instagram.com/beratiyilik/)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratiyilik&hide_border=true&cache_seconds=1800&theme=blueberry&langs_count=6&layout=compact&count_private=true" height="175em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=beratiyilik&hide_border=true&cache_seconds=1800&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true" height="175em" />
-</div>
-
 ### TechStack
 
 <p float="left">
